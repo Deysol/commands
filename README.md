@@ -10,7 +10,7 @@
 
 # Info
 - s!help - Helps you with the commands
--
+- s!ping - Pong
 -
 
 # Music
