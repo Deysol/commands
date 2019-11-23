@@ -13,6 +13,7 @@
 - s!ping - Pong
 - s!credits - People who made the bot
 - s!userinfo - Gets information about your account
+- s!avatar - Gets your avatar
 
 # Music
 -
