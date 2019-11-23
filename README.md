@@ -1,6 +1,6 @@
 # Admin
--
--
+- s!kick - Kicks a user
+- s!ban - Bans a user
 -
 
 # Games
