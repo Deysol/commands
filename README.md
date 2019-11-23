@@ -22,5 +22,5 @@
 
 # Random
 - s!howtobreathe - Teaches you how to breathe
--
+- s!dice - Rolls a random number between 1-6
 -
