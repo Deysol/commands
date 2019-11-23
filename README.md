@@ -1,7 +1,7 @@
 # Admin
-- s!kick - Kicks a user
-- s!ban - Bans a user
--
+- s!kick [user] <reason> - Kicks a user
+- s!ban [user] <reason> - Bans a user
+- s!clear <amount> - Clears messages
 
 # Games
 -
