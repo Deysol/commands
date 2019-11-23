@@ -9,7 +9,7 @@
 -
 
 # Info
--s!help - Helps you with the commands
+- s!help - Helps you with the commands
 -
 -
 
