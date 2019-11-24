@@ -2,6 +2,8 @@
 - s!kick [user] <reason> - Kicks a user
 - s!ban [user] <reason> - Bans a user
 - s!clear <amount> - Clears messages
+- s!addrole <user> <role> - Gives a user a role
+- s!delrole <user> <role> - Removes a role from a user
 
 # Games
 -
